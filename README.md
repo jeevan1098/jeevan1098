@@ -25,7 +25,12 @@
 | 🎬 NxtWatch (YouTube Clone) | React.js, Node.js, JWT | [Demo](http://jeevannxtwatch.ccbp.tech) |
 
 ## 📊 GitHub Stats
+
 ![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevan1098&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan1098&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jeevan1098&theme=tokyonight&hide_border=true)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevangotru)
